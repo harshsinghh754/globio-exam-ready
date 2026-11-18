@@ -1,6 +1,6 @@
 # Globio — "Am I Exam-Ready?" (CEFR A1 Diagnostic)
 
-**Live App:** [Insert your Vercel URL here]
+**Live App:** https://globio-exam-ready-theta.vercel.app
 
 ## The Problem
 Many learners finish German A1 coursework and book their Goethe or ÖSD exam without knowing if they can actually pass—risking ₹7,500–₹11,000+ in exam fees and weeks of delay on their career/visa journey abroad.
